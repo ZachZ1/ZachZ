@@ -2,6 +2,8 @@ echo "# ZachZ" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
+git branch -M ZachZ1
 git remote add origin https://github.com/ZachZ1/ZachZ.git
 git push -u origin main 
+echo "# ZachZ'>> leasons_learned.md 
+git add leasons_learned.md 
